@@ -7,3 +7,4 @@ authors = ["Rajasekharan Vengalil <avranju@gmail.com>"]
 regex = "0.2"
 caseless = "0.2"
 lazy_static = "1.0.0"
+xml-rs = "0.7"
